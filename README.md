@@ -32,10 +32,10 @@ This program finds two numbers in an array whose sum is equal to a given target 
 ## Output Screenshots
 
 ### Merge Program
-![Merge Output](images/merge_output.png)
+![Merge Output](merge_output.png)
 
 ### Two Sum Program
-![Two Sum Output](images/twosum_output.png)
+![Two Sum Output](twosum_output.png)
 
 ---
 
